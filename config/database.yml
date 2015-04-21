@@ -1,0 +1,12 @@
+default: &default
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: qa_dev
+  pool: 5
+  username: root
+  password:

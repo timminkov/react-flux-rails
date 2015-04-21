@@ -1,0 +1,16 @@
+{
+  "name": "react-flux-rails",
+  "dependencies": {
+    "browserify": "~> 6.3",
+    "browserify-incremental": "^1.4.0",
+    "browserify-jsx": "^1.0.0",
+    "flux": "^2.0.1",
+    "react": "^0.13.0",
+    "reactify": "^1.1.0",
+    "underscore": "^1.8.3"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  }
+}
